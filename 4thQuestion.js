@@ -23,4 +23,4 @@ switch (fruit) {
     break;
 }
 
-console.log(message);
+console.log(show);
