@@ -1,25 +1,25 @@
-var message;
+var show;
 var fruit = "apple";
 
 switch (fruit) {
   case "apple":
-    message = "it is a fruit";
+    show = "it is a fruit";
     break;
 
   case "banana":
-    message = "it is a fruit";
+    show = "it is a fruit";
     break;
 
   case "orange":
-    message = "it is a fruit";
+    show = "it is a fruit";
     break;
 
   case "mango":
-    message = "it is a fruit";
+    show = "it is a fruit";
     break;
 
   default:
-    message = "not a fruit";
+    show = "not a fruit";
     break;
 }
 
