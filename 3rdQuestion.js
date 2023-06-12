@@ -6,4 +6,4 @@ do {
   b++;
 } while (b <= 100);
 
-console.log("The sum of numbers from 1 to 100 is: " + a);
+console.log(`The sum of numbers from 1 to 100 is: ${a} `);

@@ -1,5 +1,5 @@
 function prime(num) {
-  if (number <= 1) {
+  if (num <= 1) {
     return false;
   }
 
